@@ -413,7 +413,7 @@ body.search .head {
 }
 
 .title {
-	font-size: 20px;
+	font-size: 40px;
 }
 
 ul {
@@ -424,7 +424,7 @@ ul {
 }
 
 li {
-	font-size: 16px;
+	font-size: 40px;
 	padding: 5px;
 }
 
@@ -444,7 +444,8 @@ a:link {
 }
 
 a:visited {
-	color: var(--color-link-visited);
+    text-decoration: none;
+	color: var(--color-link);
 }
 
 a:hover {
